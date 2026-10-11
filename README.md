@@ -26,4 +26,4 @@ I started by mapping out the full circuit architecture in **EasyEDA**, carefully
 * Inspected the final design using the 3D PCB viewer to ensure a manufacturing-ready layout.
 
 ---
-![Preview]([preview.png](https://github.com/wyoussef338-alt/starbie/blob/main/Screenshot%202026-10-11%20101001.png?raw=true))
+![image1](https://github.com/wyoussef338-alt/starbie/blob/main/Screenshot%202026-10-11%20101001.png?raw=true)
